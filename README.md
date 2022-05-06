@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Onyi-Liveth
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning to write code in kotlin
+- 👀 I’m a Python developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me onyiorajiaku1@gmail.com
 
