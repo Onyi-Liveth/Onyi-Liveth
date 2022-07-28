@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Onyi-Liveth
 - 👀 I’m a Python developer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me onyiorajiaku1@gmail.com
 
 <!---
