@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Onyi-Liveth
+- 👋 Hi, I’m Onyinye
 - 👀 I’m a Python developer
 - 📫 How to reach me onyiorajiaku1@gmail.com
 
