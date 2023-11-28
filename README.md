@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Onyinye
-- 👀 I’m a Python developer
+- 👀 I’m a Backend developer
 - 📫 How to reach me onyiorajiaku1@gmail.com
 
 <!---
